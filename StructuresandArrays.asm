@@ -3,7 +3,6 @@ Assembly program using system calls that implements the following tasks:
 2-	Defines an array of 5 structures of Point type
 3-	Uses loop 1 to ask a user to input x and y values for the 5 structures using system calls
 4-	Uses a loop 2 to print out the x and y values for the array of structure using the system calls
-CODE:
 
 ;Point structure
 STRUC Point 
