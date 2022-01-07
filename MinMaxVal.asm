@@ -1,10 +1,7 @@
 Assembly program using system calls that implements the following tasks:
-1-	Declares array that has the following element {12, 16, 6, 18, 10, 40, 30}
-2-	Prints the array's elements
-3-	Uses loop and if statement to find the maximum value in the array
-4-	Prints the maximum value in the array
-5-	Uses loop and if statement to find the minimum value in the array
-6-	Prints the minimum value in the array
+1 -	Prints the array's elements
+2 -	Prints the maximum value in the array
+3 -	Prints the minimum value in the array
 
 section .data
         msg1 db "Array Values",10,0
